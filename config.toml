@@ -56,11 +56,16 @@ copyright = "&copy;2021 André Hiroshi Koga"
   # Links List #2
   [[params.links]]
     [params.links.list2]
-      heading = "Social"
+      heading = "Contato"
 
       [[params.links.list2.link]]
-        text = "LinkedIn"
-        url = "https://www.linkedin.com/in/mirna-akemi-koga-09318b38/?originalSubdomain=br"
+        text = "2087-6454"
+
+      [[params.links.list2.link]]
+        text = "2087-6455"
+
+      [[params.links.list2.link]]
+        text = "2087-6456"
 
   # Links List #3
   [[params.links]]
